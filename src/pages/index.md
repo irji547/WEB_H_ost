@@ -1,24 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: FromHosting
+image: /img/kern_it_85103537_1920x1080px.jpg
+heading: Great Hosting
+subheading: Hosting Low cost Hoght Perfomance
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why FromHosting
+  description: FromHosting adalah layanan hosting server dengan kemampuan dan
+    sistem yang tinggi sehingga membuat situs web anda berjalan dengan
+    cepat,stabil dan aman
+description: Dengan dukungan dan tenaga ahli yang memumpuni FromHosting menjamin
+  pengalaman hsoting yang berkualiatas dengan harga yang tenjangkau dan ramah di
+  kantong pelajar seklipun.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/2.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
